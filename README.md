@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LadderEV369
+- 👋 Hi, I’m Balsley
 - 👀 I’m interested in EEE
-- 🌱 I’m currently learning Termux
+- 🌱 I’m currently in Termux
 
 <!---
 LadderEV369/LadderEV369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
